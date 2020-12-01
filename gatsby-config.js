@@ -5,8 +5,8 @@ module.exports = {
       name: `Isaac Aiman`,
       summary: ``,
     },
-    description: ``,
-    siteUrl: `https://iaimans.com`,
+    description: `A starter blog demonstrating what Gatsby can do.`,
+    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       github: `iaimans`,
     },
