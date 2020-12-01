@@ -41,23 +41,14 @@ const Bio = () => {
 
   return (
     <div className="bio">
-      {avatar && (
-        <Image
-          fixed={avatar}
-          alt={author?.name || ``}
-          className="bio-avatar"
-          imgStyle={{
-            borderRadius: `50%`,
-          }}
-        />
-      )}
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+          You can follow me on
           {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
+          <a href={`https://github.com/${social?.github || ``}`}>
+            GitHub
           </a>
+          {` `} 🥑
         </p>
       )}
     </div>
