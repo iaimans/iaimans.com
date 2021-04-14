@@ -1,8 +1,10 @@
 ---
 title: Multicursores en IntelliJ
-date: "2021-03-26T13:00:00.000Z"
+date: "2021-04-14T17:30:00.000Z"
 template: "post"
+description: ""
 draft: false
+socialImage: /photo.jpg
 slug: "multicursores-intellij"
 category: "Tech"
 tags:

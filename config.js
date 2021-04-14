@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://iaimans.com',
   pathPrefix: '/',
   title: 'Isaac Aiman',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: '',
   copyright: '',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Isaac Aiman',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Desarollador de Software',
     contacts: {
       email: '',
       facebook: '',
