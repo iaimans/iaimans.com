@@ -47,4 +47,4 @@ Seleccionamos un bloque de texto mientras mantenemos pulsado `Alt` + `Ctrl` + `S
 ### Selección libre
 Podemos pulsar con el ratón en cualquier parte mientras mantenemos pulsado `Alt` + `Shift`  y se creará un selector en ese punto.
 
-![(seleccion-libre.gif)
+![](seleccion-libre.gif)
