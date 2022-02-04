@@ -20,18 +20,24 @@ En ocasiones resulta de gran utilidad poder editar múltiples partes de un fiche
 ## Selección múltiple con teclado
 
 ### Seleccionar todas las ocurrencias
-Atajo de teclado: `Alt` + `Ctrl` + `Shift` + `J`
+Atajo de teclado (Windows): `Alt` + `Ctrl` + `Shift` + `J`
+
+Atajo de teclado (Mac): `Ctrl` + `⌘` + `G`
 
 ![](todas-ocurrencias.gif)
 
 ### Selecionar la siguiente ocurrencia
-Atajo de teclado: `Alt` + `J`
+Atajo de teclado (Windows): `Alt` + `J`
+
+Atajo de teclado (Mac): `Ctrl` + `G`
 
 ![](siguiente-ocurrencia.gif)
 
 
 ### Eliminar la ocurrencia
-Atajo de teclado: `Alt` + `Shift` + `J`
+Atajo de teclado (Windows): `Alt` + `Shift` + `J`
+
+Atajo de teclado (Mac): `Ctrl` + `Shift` + `G`
 
 ![](eliminar-ocurrencia.gif)
 
@@ -39,12 +45,12 @@ Atajo de teclado: `Alt` + `Shift` + `J`
 ## Selección múltiple con ratón
 
 ### Selección en bloque
-Seleccionamos un bloque de texto mientras mantenemos pulsado `Alt` + `Ctrl` + `Shift`. Esto nos creará tanttos selectores como líneas hayamos seleccionado.
+Seleccionamos un bloque de texto mientras mantenemos pulsado `Alt/Opt` + `Ctrl/⌘` + `Shift`. Esto nos creará tanttos selectores como líneas hayamos seleccionado.
 
 ![](seleccion-bloque.gif)
 
 
 ### Selección libre
-Podemos pulsar con el ratón en cualquier parte mientras mantenemos pulsado `Alt` + `Shift`  y se creará un selector en ese punto.
+Podemos pulsar con el ratón en cualquier parte mientras mantenemos pulsado `Alt/Opt` + `Shift`  y se creará un selector en ese punto.
 
 ![](seleccion-libre.gif)
