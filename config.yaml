@@ -97,9 +97,9 @@ menu:
         - identifier: home
           name: Artículos
           url: /
+          pre: hash
           weight: -100
-          params:
-              icon: hash
+
 
 related:
     includeNewer: true
