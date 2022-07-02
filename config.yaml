@@ -1,10 +1,10 @@
 baseurl: https://iaimans.com
 languageCode: es-es
-theme: hugo-stack
+theme: hugo-theme-stack-fork
 paginate: 5
 title: Isaac Aiman
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-stack
+#disqusShortname: hugo-stack
 
 
 # Theme i18n support
